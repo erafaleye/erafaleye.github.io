@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erafaleye.github.io/sitemap
+Sitemap: https://erafaleye.github.io/app/sitemap
+Sitemap: https://erafaleye.github.io/assets/sitemap
+Sitemap: https://erafaleye.github.io/css/sitemap
+Sitemap: https://erafaleye.github.io/includes/sitemap
+Sitemap: https://erafaleye.github.io/item/sitemap
+Sitemap: https://erafaleye.github.io/src/sitemap
